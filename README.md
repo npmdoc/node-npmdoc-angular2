@@ -3,9 +3,11 @@
 
 [![NPM](https://nodei.co/npm/angular2.png?downloads=true)](https://www.npmjs.com/package/angular2)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-angular2_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.buildNpmdoc.browser.%2Fhome%2Ftravis%2Fbuild%2Fnpmdoc%2Fnode-npmdoc-angular2%2Ftmp%2Fbuild%2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-angular2/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
