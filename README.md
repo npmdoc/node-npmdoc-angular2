@@ -1,9 +1,14 @@
-# api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)
+# npmdoc-angular2
+
+#### api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)
+
 #### Angular 2 - a web framework for modern web apps
 
-[![NPM](https://nodei.co/npm/angular2.png?downloads=true)](https://www.npmjs.com/package/angular2)
+[![NPM](https://nodei.co/npm/angular2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.buildNpmdoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-angular2%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-angular2/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-angular2/build/screenCapture.npmPackageListing.svg)
 
@@ -21,44 +26,34 @@
     },
     "contributors": [
         {
-            "name": "Alex Eagle",
-            "email": "alexeagle@google.com"
+            "name": "Alex Eagle"
         },
         {
-            "name": "Chirayu Krishnappa",
-            "email": "chirayu@google.com"
+            "name": "Chirayu Krishnappa"
         },
         {
-            "name": "Jeff Cross",
-            "email": "crossj@google.com"
+            "name": "Jeff Cross"
         },
         {
-            "name": "Matias Niemela",
-            "email": "matsko@google.com"
+            "name": "Matias Niemela"
         },
         {
-            "name": "Misko Hevery",
-            "email": "misko@google.com"
+            "name": "Misko Hevery"
         },
         {
-            "name": "Rado Kirov",
-            "email": "radokirov@google.com"
+            "name": "Rado Kirov"
         },
         {
-            "name": "Tobias Bosch",
-            "email": "tbosch@google.com"
+            "name": "Tobias Bosch"
         },
         {
-            "name": "Victor Savkin",
-            "email": "vsavkin@google.com"
+            "name": "Victor Savkin"
         },
         {
-            "name": "Yegor Jbanov",
-            "email": "yjbanov@google.com"
+            "name": "Yegor Jbanov"
         },
         {
-            "name": "Jeremy Elbourn",
-            "email": "jelbourn@google.com"
+            "name": "Jeremy Elbourn"
         }
     ],
     "dependencies": {},
@@ -74,8 +69,7 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "angularcore",
-            "email": "angular-core+npm@google.com"
+            "name": "angularcore"
         }
     ],
     "name": "angular2",
@@ -86,7 +80,6 @@
         "rxjs": "5.0.0-beta.6",
         "zone.js": "^0.6.12"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/angular/angular.git"
@@ -94,69 +87,6 @@
     "scripts": {},
     "version": "2.0.0-beta.21"
 }
-```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module angular2](#apidoc.module.angular2)
-1.  object <span class="apidocSignatureSpan">angular2.</span>instrumentation
-
-#### [module angular2.instrumentation](#apidoc.module.angular2.instrumentation)
-1.  [function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfCreateScope (signature, flags)](#apidoc.element.angular2.instrumentation.wtfCreateScope)
-1.  [function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfEndTimeRange (r)](#apidoc.element.angular2.instrumentation.wtfEndTimeRange)
-1.  [function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfLeave (s, r)](#apidoc.element.angular2.instrumentation.wtfLeave)
-1.  [function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfStartTimeRange (rangeType, action)](#apidoc.element.angular2.instrumentation.wtfStartTimeRange)
-
-
-
-# <a name="apidoc.module.angular2"></a>[module angular2](#apidoc.module.angular2)
-
-
-
-# <a name="apidoc.module.angular2.instrumentation"></a>[module angular2.instrumentation](#apidoc.module.angular2.instrumentation)
-
-#### <a name="apidoc.element.angular2.instrumentation.wtfCreateScope"></a>[function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfCreateScope (signature, flags)](#apidoc.element.angular2.instrumentation.wtfCreateScope)
-- description and source-code
-```javascript
-wtfCreateScope = function (signature, flags) { return noopScope; }
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.angular2.instrumentation.wtfEndTimeRange"></a>[function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfEndTimeRange (r)](#apidoc.element.angular2.instrumentation.wtfEndTimeRange)
-- description and source-code
-```javascript
-wtfEndTimeRange = function (r) {
-    return null;
-}
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.angular2.instrumentation.wtfLeave"></a>[function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfLeave (s, r)](#apidoc.element.angular2.instrumentation.wtfLeave)
-- description and source-code
-```javascript
-wtfLeave = function (s, r) { return r; }
-```
-- example usage
-```shell
-n/a
-```
-
-#### <a name="apidoc.element.angular2.instrumentation.wtfStartTimeRange"></a>[function <span class="apidocSignatureSpan">angular2.instrumentation.</span>wtfStartTimeRange (rangeType, action)](#apidoc.element.angular2.instrumentation.wtfStartTimeRange)
-- description and source-code
-```javascript
-wtfStartTimeRange = function (rangeType, action) { return null; }
-```
-- example usage
-```shell
-n/a
 ```
 
 
