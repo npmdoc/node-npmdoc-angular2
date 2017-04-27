@@ -1,6 +1,6 @@
 # npmdoc-angular2
 
-#### api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)
+#### basic api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)
 
 #### Angular 2 - a web framework for modern web apps
 
@@ -85,7 +85,8 @@
         "url": "git+https://github.com/angular/angular.git"
     },
     "scripts": {},
-    "version": "2.0.0-beta.21"
+    "version": "2.0.0-beta.21",
+    "bin": {}
 }
 ```
 

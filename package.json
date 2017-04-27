@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "angular2",
-    "description": "#### api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)",
+    "description": "#### basic api documentation for  [angular2 (v2.0.0-beta.21)](https://github.com/angular/angular)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2)",
     "devDependencies": {
         "angular2": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.4"
+    "version": "2017.4.27"
 }
